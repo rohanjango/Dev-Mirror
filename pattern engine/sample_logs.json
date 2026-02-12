@@ -1,0 +1,13 @@
+{
+  "user_id": "rohan",
+  "session_id": "s1",
+  "logs": [
+    {"timestamp": "2026-02-12T10:00:00", "event": "file_open"},
+    {"timestamp": "2026-02-12T10:00:10", "event": "edit"},
+    {"timestamp": "2026-02-12T10:00:14", "event": "edit"},
+    {"timestamp": "2026-02-12T10:00:20", "event": "run"},
+    {"timestamp": "2026-02-12T10:00:25", "event": "error", "error_type": "TypeError"},
+    {"timestamp": "2026-02-12T10:00:40", "event": "edit"},
+    {"timestamp": "2026-02-12T10:00:45", "event": "run"}
+  ]
+}
