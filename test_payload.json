@@ -1,0 +1,11 @@
+{
+  "user_id": "demo_user",
+  "logs": [
+    {
+      "file": "app.py",
+      "event": "error",
+      "error_type": "TypeError",
+      "timestamp": "2026-02-12T12:10:01"
+    }
+  ]
+}
